@@ -1,2 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\01. Define_class_Person\bin\Debug\_01.Define_class_Person.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\01. Define_class_Person\bin\Debug\_01.Define_class_Person.exe.config

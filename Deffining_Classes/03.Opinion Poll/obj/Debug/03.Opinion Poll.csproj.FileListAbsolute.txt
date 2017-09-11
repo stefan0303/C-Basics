@@ -1,9 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\03.Opinion Poll\bin\Debug\03.Opinion Poll.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\03.Opinion Poll\bin\Debug\03.Opinion Poll.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\03.Opinion Poll\bin\Debug\03.Opinion Poll.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\03.Opinion Poll\obj\Debug\03.Opinion Poll.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\03.Opinion Poll\obj\Debug\03.Opinion Poll.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\03.Opinion Poll\obj\Debug\03.Opinion Poll.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\03.Opinion Poll\bin\Debug\03.Opinion Poll.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\03.Opinion Poll\obj\Debug\03.Opinion Poll.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\03.Opinion Poll\obj\Debug\03.Opinion Poll.pdb

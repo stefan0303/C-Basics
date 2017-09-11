@@ -1,6 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\Defining_Classes Exercises\bin\Debug\Defining_Classes Exercises.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\Defining_Classes Exercises\bin\Debug\Defining_Classes Exercises.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\Defining_Classes Exercises\bin\Debug\Defining_Classes Exercises.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\Defining_Classes Exercises\obj\Debug\Defining_Classes Exercises.csprojResolveAssemblyReference.cache
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\Defining_Classes Exercises\obj\Debug\Defining_Classes Exercises.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\Defining_Classes Exercises\obj\Debug\Defining_Classes Exercises.pdb
