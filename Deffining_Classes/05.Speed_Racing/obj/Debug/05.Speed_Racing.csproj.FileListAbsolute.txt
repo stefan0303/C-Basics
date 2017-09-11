@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\05.Speed_Racing\bin\Debug\05.Speed_Racing.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\05.Speed_Racing\bin\Debug\05.Speed_Racing.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\05.Speed_Racing\bin\Debug\05.Speed_Racing.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\05.Speed_Racing\obj\Debug\05.Speed_Racing.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\05.Speed_Racing\obj\Debug\05.Speed_Racing.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\05.Speed_Racing\obj\Debug\05.Speed_Racing.pdb

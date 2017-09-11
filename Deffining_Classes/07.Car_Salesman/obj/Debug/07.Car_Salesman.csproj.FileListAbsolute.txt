@@ -1,0 +1,12 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\07.Car_Salesman\bin\Debug\07.Car_Salesman.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\07.Car_Salesman\bin\Debug\07.Car_Salesman.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\07.Car_Salesman\bin\Debug\07.Car_Salesman.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\07.Car_Salesman\obj\Debug\07.Car_Salesman.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\07.Car_Salesman\obj\Debug\07.Car_Salesman.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\Defining Classes\Defining_Classes Exercises\07.Car_Salesman\obj\Debug\07.Car_Salesman.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\07.Car_Salesman\bin\Debug\07.Car_Salesman.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\07.Car_Salesman\obj\Debug\07.Car_Salesman.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\07.Car_Salesman\obj\Debug\07.Car_Salesman.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\07.Car_Salesman\bin\Debug\07.Car_Salesman.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\07.Car_Salesman\bin\Debug\07.Car_Salesman.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\07.Car_Salesman\obj\Debug\07.Car_Salesman.csprojResolveAssemblyReference.cache

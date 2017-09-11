@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\03.OpinionPoll2017\bin\Debug\03.OpinionPoll2017.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\03.OpinionPoll2017\bin\Debug\03.OpinionPoll2017.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\03.OpinionPoll2017\bin\Debug\03.OpinionPoll2017.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\03.OpinionPoll2017\obj\Debug\03.OpinionPoll2017.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\03.OpinionPoll2017\obj\Debug\03.OpinionPoll2017.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\OOP-Basics\01.Defining Classes\Defining_Classes Exercises\03.OpinionPoll2017\obj\Debug\03.OpinionPoll2017.csprojResolveAssemblyReference.cache
