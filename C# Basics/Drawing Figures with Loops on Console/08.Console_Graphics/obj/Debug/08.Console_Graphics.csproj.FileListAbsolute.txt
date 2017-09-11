@@ -1,0 +1,5 @@
+F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\08.Console_Graphics\bin\Debug\08.Console_Graphics.exe.config
+F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\08.Console_Graphics\bin\Debug\08.Console_Graphics.exe
+F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\08.Console_Graphics\bin\Debug\08.Console_Graphics.pdb
+F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\08.Console_Graphics\obj\Debug\08.Console_Graphics.exe
+F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\08.Console_Graphics\obj\Debug\08.Console_Graphics.pdb
