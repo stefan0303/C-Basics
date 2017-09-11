@@ -1,5 +1,0 @@
-F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\10.Sunglasses\bin\Debug\10.Sunglasses.exe.config
-F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\10.Sunglasses\bin\Debug\10.Sunglasses.exe
-F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\10.Sunglasses\bin\Debug\10.Sunglasses.pdb
-F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\10.Sunglasses\obj\Debug\10.Sunglasses.exe
-F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\10.Sunglasses\obj\Debug\10.Sunglasses.pdb

@@ -1,5 +1,0 @@
-F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\03.Wine_Glass\bin\Debug\03.Wine_Glass.exe.config
-F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\03.Wine_Glass\bin\Debug\03.Wine_Glass.exe
-F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\03.Wine_Glass\bin\Debug\03.Wine_Glass.pdb
-F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\03.Wine_Glass\obj\Debug\03.Wine_Glass.exe
-F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\03.Wine_Glass\obj\Debug\03.Wine_Glass.pdb
