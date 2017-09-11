@@ -3,8 +3,3 @@ F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\07.STOP_draw\b
 F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\07.STOP_draw\bin\Debug\07.STOP_draw.pdb
 F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\07.STOP_draw\obj\Debug\07.STOP_draw.exe
 F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\07.STOP_draw\obj\Debug\07.STOP_draw.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\07.STOP_draw\bin\Debug\07.STOP_draw.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\07.STOP_draw\obj\Debug\07.STOP_draw.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\07.STOP_draw\obj\Debug\07.STOP_draw.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\07.STOP_draw\bin\Debug\07.STOP_draw.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\07.STOP_draw\bin\Debug\07.STOP_draw.pdb

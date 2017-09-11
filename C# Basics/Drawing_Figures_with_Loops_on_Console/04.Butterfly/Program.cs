@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-        int n = int.Parse(Console.ReadLine());//Write a number to 30
+        int n = int.Parse(Console.ReadLine());//Write a number to 20
         Console.WriteLine("{0}\\ /{0}", new string('*', n - 2));
         for (int i = 1; i < ((n - 2) + 1) / 2; i++)
         {

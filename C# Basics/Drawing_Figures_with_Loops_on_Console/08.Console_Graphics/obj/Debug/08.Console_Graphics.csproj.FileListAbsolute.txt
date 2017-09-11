@@ -3,6 +3,3 @@ F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\08.Console_Gra
 F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\08.Console_Graphics\bin\Debug\08.Console_Graphics.pdb
 F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\08.Console_Graphics\obj\Debug\08.Console_Graphics.exe
 F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\08.Console_Graphics\obj\Debug\08.Console_Graphics.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\08.Console_Graphics\bin\Debug\08.Console_Graphics.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\08.Console_Graphics\obj\Debug\08.Console_Graphics.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\08.Console_Graphics\obj\Debug\08.Console_Graphics.pdb

@@ -3,8 +3,3 @@ F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\04.Butterfly\b
 F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\04.Butterfly\bin\Debug\04.Butterfly.pdb
 F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\04.Butterfly\obj\Debug\04.Butterfly.exe
 F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\04.Butterfly\obj\Debug\04.Butterfly.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\04.Butterfly\bin\Debug\04.Butterfly.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\04.Butterfly\obj\Debug\04.Butterfly.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\04.Butterfly\obj\Debug\04.Butterfly.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\04.Butterfly\bin\Debug\04.Butterfly.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\04.Butterfly\bin\Debug\04.Butterfly.pdb
