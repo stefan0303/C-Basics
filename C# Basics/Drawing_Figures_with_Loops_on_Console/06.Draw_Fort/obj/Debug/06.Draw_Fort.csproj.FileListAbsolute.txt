@@ -3,3 +3,8 @@ F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\06.Draw_Fort\b
 F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\06.Draw_Fort\bin\Debug\06.Draw_Fort.pdb
 F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\06.Draw_Fort\obj\Debug\06.Draw_Fort.exe
 F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\06.Draw_Fort\obj\Debug\06.Draw_Fort.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\06.Draw_Fort\bin\Debug\06.Draw_Fort.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\06.Draw_Fort\obj\Debug\06.Draw_Fort.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\06.Draw_Fort\obj\Debug\06.Draw_Fort.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\06.Draw_Fort\bin\Debug\06.Draw_Fort.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\06.Draw_Fort\bin\Debug\06.Draw_Fort.pdb

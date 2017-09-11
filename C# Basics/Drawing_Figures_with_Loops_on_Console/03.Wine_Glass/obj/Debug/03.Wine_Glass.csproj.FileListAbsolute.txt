@@ -3,3 +3,8 @@ F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\03.Wine_Glass\
 F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\03.Wine_Glass\bin\Debug\03.Wine_Glass.pdb
 F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\03.Wine_Glass\obj\Debug\03.Wine_Glass.exe
 F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\03.Wine_Glass\obj\Debug\03.Wine_Glass.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\03.Wine_Glass\bin\Debug\03.Wine_Glass.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\03.Wine_Glass\obj\Debug\03.Wine_Glass.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\03.Wine_Glass\obj\Debug\03.Wine_Glass.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\03.Wine_Glass\bin\Debug\03.Wine_Glass.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\03.Wine_Glass\bin\Debug\03.Wine_Glass.pdb

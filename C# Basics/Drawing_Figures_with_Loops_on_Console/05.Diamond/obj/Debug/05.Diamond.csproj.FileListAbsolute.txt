@@ -1,1 +1,2 @@
 F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\05.Diamond\bin\Debug\05.Diamond.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing_Figures_with_Loops_on_Console\05.Diamond\bin\Debug\05.Diamond.exe.config

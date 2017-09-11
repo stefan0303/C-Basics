@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        int n = int.Parse(Console.ReadLine());//Write an even number number
+        int n = int.Parse(Console.ReadLine());//Write an even number number to 21
         Console.WriteLine(new string('*', (n * 2)));
         Console.WriteLine(new string('*', (n * 2)));
         for (int i = 1; i < n; i++)

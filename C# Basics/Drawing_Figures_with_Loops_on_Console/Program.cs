@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        int n = int.Parse(Console.ReadLine());////Write a number to 10
+        int n = int.Parse(Console.ReadLine());////Write a number to 40
 
         Console.WriteLine(new string('*', n));
         for (int row = 1; row < (n - 1) / 2; row++)
