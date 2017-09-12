@@ -1,0 +1,5 @@
+F:\GitHub-Popraveni_Proekti\Advanced Loops exercises\Advanced_Loops_Exercises\07.Magic_Numbers\bin\Debug\07.Magic_Numbers.exe.config
+F:\GitHub-Popraveni_Proekti\Advanced Loops exercises\Advanced_Loops_Exercises\07.Magic_Numbers\bin\Debug\07.Magic_Numbers.exe
+F:\GitHub-Popraveni_Proekti\Advanced Loops exercises\Advanced_Loops_Exercises\07.Magic_Numbers\bin\Debug\07.Magic_Numbers.pdb
+F:\GitHub-Popraveni_Proekti\Advanced Loops exercises\Advanced_Loops_Exercises\07.Magic_Numbers\obj\Debug\07.Magic_Numbers.exe
+F:\GitHub-Popraveni_Proekti\Advanced Loops exercises\Advanced_Loops_Exercises\07.Magic_Numbers\obj\Debug\07.Magic_Numbers.pdb

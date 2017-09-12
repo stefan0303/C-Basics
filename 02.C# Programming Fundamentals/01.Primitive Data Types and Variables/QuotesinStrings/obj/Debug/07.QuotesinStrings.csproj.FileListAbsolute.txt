@@ -1,0 +1,6 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\QuotesinStrings\bin\Debug\QuotesinStrings.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\QuotesinStrings\bin\Debug\QuotesinStrings.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\QuotesinStrings\bin\Debug\QuotesinStrings.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\QuotesinStrings\obj\Debug\QuotesinStrings.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\QuotesinStrings\obj\Debug\QuotesinStrings.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\QuotesinStrings\obj\Debug\07.QuotesinStrings.csprojResolveAssemblyReference.cache
