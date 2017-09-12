@@ -1,5 +1,0 @@
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing Figures with Loops on Console\11.Rocket\bin\Debug\11.Rocket.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing Figures with Loops on Console\11.Rocket\bin\Debug\11.Rocket.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing Figures with Loops on Console\11.Rocket\bin\Debug\11.Rocket.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing Figures with Loops on Console\11.Rocket\obj\Debug\11.Rocket.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing Figures with Loops on Console\11.Rocket\obj\Debug\11.Rocket.pdb
