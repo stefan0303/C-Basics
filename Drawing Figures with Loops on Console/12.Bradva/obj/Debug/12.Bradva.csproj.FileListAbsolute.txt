@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing Figures with Loops on Console\12.Bradva\bin\Debug\12.Bradva.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing Figures with Loops on Console\12.Bradva\bin\Debug\12.Bradva.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing Figures with Loops on Console\12.Bradva\bin\Debug\12.Bradva.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing Figures with Loops on Console\12.Bradva\obj\Debug\12.Bradva.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing Figures with Loops on Console\12.Bradva\obj\Debug\12.Bradva.pdb

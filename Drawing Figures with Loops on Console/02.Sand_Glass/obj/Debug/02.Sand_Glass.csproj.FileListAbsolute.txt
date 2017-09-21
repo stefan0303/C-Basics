@@ -1,0 +1,5 @@
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing Figures with Loops on Console\02.Sand_Glass\bin\Debug\02.Sand_Glass.exe.config
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing Figures with Loops on Console\02.Sand_Glass\bin\Debug\02.Sand_Glass.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing Figures with Loops on Console\02.Sand_Glass\bin\Debug\02.Sand_Glass.pdb
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing Figures with Loops on Console\02.Sand_Glass\obj\Debug\02.Sand_Glass.exe
+C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\C# Basics\Drawing Figures with Loops on Console\02.Sand_Glass\obj\Debug\02.Sand_Glass.pdb
