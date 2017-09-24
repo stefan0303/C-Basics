@@ -1,5 +1,0 @@
-F:\GitHub-Popraveni_Proekti\Advanced Loops exercises\Advanced_Loops_Exercises\05.Numbers\bin\Debug\05.Numbers.exe.config
-F:\GitHub-Popraveni_Proekti\Advanced Loops exercises\Advanced_Loops_Exercises\05.Numbers\bin\Debug\05.Numbers.exe
-F:\GitHub-Popraveni_Proekti\Advanced Loops exercises\Advanced_Loops_Exercises\05.Numbers\bin\Debug\05.Numbers.pdb
-F:\GitHub-Popraveni_Proekti\Advanced Loops exercises\Advanced_Loops_Exercises\05.Numbers\obj\Debug\05.Numbers.exe
-F:\GitHub-Popraveni_Proekti\Advanced Loops exercises\Advanced_Loops_Exercises\05.Numbers\obj\Debug\05.Numbers.pdb
