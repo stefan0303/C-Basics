@@ -1,8 +1,0 @@
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\BooleanVariable\bin\Debug\BooleanVariable.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\BooleanVariable\bin\Debug\BooleanVariable.pdb
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\BooleanVariable\obj\Debug\BooleanVariable.exe
-C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Primitive Data Types and Variables\BooleanVariable\obj\Debug\BooleanVariable.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\01.Primitive Data Types and Variables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\01.Primitive Data Types and Variables\BooleanVariable\obj\Debug\BooleanVariable.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\02.C# Programming Fundamentals\01.Primitive Data Types and Variables\BooleanVariable\obj\Debug\BooleanVariable.pdb
