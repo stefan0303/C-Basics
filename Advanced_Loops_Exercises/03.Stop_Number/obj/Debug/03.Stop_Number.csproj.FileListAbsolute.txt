@@ -1,8 +1,0 @@
-F:\GitHub-Popraveni_Proekti\Advanced Loops exercises\Advanced_Loops_Exercises\03.Stop_Number\bin\Debug\03.Stop_Number.exe.config
-F:\GitHub-Popraveni_Proekti\Advanced Loops exercises\Advanced_Loops_Exercises\03.Stop_Number\bin\Debug\03.Stop_Number.exe
-F:\GitHub-Popraveni_Proekti\Advanced Loops exercises\Advanced_Loops_Exercises\03.Stop_Number\bin\Debug\03.Stop_Number.pdb
-F:\GitHub-Popraveni_Proekti\Advanced Loops exercises\Advanced_Loops_Exercises\03.Stop_Number\obj\Debug\03.Stop_Number.exe
-F:\GitHub-Popraveni_Proekti\Advanced Loops exercises\Advanced_Loops_Exercises\03.Stop_Number\obj\Debug\03.Stop_Number.pdb
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\01.C# Basics\Advanced_Loops_Exercises\03.Stop_Number\bin\Debug\03.Stop_Number.exe.config
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\01.C# Basics\Advanced_Loops_Exercises\03.Stop_Number\obj\Debug\03.Stop_Number.exe
-C:\Users\Stefan\Desktop\Exams_and_Exercises_SoftUni.git\Exams_and_Exercises_SoftUni\01.C# Basics\Advanced_Loops_Exercises\03.Stop_Number\obj\Debug\03.Stop_Number.pdb

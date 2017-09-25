@@ -1,5 +1,0 @@
-F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\06.Draw_Fort\bin\Debug\06.Draw_Fort.exe.config
-F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\06.Draw_Fort\bin\Debug\06.Draw_Fort.exe
-F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\06.Draw_Fort\bin\Debug\06.Draw_Fort.pdb
-F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\06.Draw_Fort\obj\Debug\06.Draw_Fort.exe
-F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\06.Draw_Fort\obj\Debug\06.Draw_Fort.pdb

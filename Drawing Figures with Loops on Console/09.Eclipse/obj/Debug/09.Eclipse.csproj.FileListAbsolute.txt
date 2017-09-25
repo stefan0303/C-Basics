@@ -1,5 +1,0 @@
-F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\09.Eclipse\bin\Debug\09.Eclipse.exe.config
-F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\09.Eclipse\bin\Debug\09.Eclipse.exe
-F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\09.Eclipse\bin\Debug\09.Eclipse.pdb
-F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\09.Eclipse\obj\Debug\09.Eclipse.exe
-F:\GitHub-Popraveni_Proekti\Drawing_Figures_with_Loops_on_Console\09.Eclipse\obj\Debug\09.Eclipse.pdb
